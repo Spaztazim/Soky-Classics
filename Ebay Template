@@ -1,0 +1,86 @@
+<font rwr='1' size='2' style='font-family:Arial'>
+	<style type="text/css">#sokyc_home {background:url(http://ebay.sokyclassics.com/images/btn_home.png) 0px 0px;}#sokyc_home:hover {background:url(http://ebay.sokyclassics.com/images/btn_home.png) 0px -30px;}#sokyc_home:active {background:url(http://ebay.sokyclassics.com/images/btn_home.png) 0px -60px;}#sokyc_policies {background:url(http://ebay.sokyclassics.com/images/btn_policies.png) 0px 0px;}#sokyc_policies:hover {background:url(http://ebay.sokyclassics.com/images/btn_policies.png) 0px -30px;}#sokyc_policies:active {background:url(http://ebay.sokyclassics.com/images/btn_policies.png) 0px -60px;}#sokyc_returns {background:url(http://ebay.sokyclassics.com/images/btn_returns.png) 0px 0px;}#sokyc_returns:hover {background:url(http://ebay.sokyclassics.com/images/btn_returns.png) 0px -30px;}#sokyc_returns:active {background:url(http://ebay.sokyclassics.com/images/btn_returns.png) 0px -60px;}#sokyc_all {background:url(http://ebay.sokyclassics.com/images/btn_all.png) 0px 0px;}#sokyc_all:hover {background:url(http://ebay.sokyclassics.com/images/btn_all.png) 0px -30px;}#sokyc_all:active {background:url(http://ebay.sokyclassics.com/images/btn_all.png) 0px -60px;}
+	</style>
+	<div style="position:relative; font-family:Verdana, Geneva, sans-serif; font-size:0px;">
+		<div style="position:relative; width:100%; height:130px;">
+			<div style="position:absolute; 	width:100%; height:100%;">
+				<div style="position:relative; width:100%; height:120px; top:10px; 		background:url(http://ebay.sokyclassics.com/images/backgnd.png);">
+					<div style="position:absolute; width:6px; height:114px; left:0px;">
+						<div style="position:relative; height:100%; width:100%; background:url(http://ebay.sokyclassics.com/images/bkgnd_lf.png);">
+						</div>
+					</div>
+					<div style="position:absolute; width:6px; height:114px; right:0px;">
+						<div style="position:relative; height:100%; width:100%; background:url(http://ebay.sokyclassics.com/images/bkgnd_rt.png);">
+						</div>
+					</div>
+					<div style="position:absolute; height:6px; left:6px; right:6px; bottom:0px;">
+						<div style="position:relative; height:100%; width:100%; background:url(http://ebay.sokyclassics.com/images/bkgnd_bot.png);">
+						</div>
+					</div>
+					<div style="position:absolute; width:6px; height:6px; left:0px; bottom:0px;">
+						<div style="position:relative; height:100%; width:100%; background:url(http://ebay.sokyclassics.com/images/bkgnd_botlf.png);">
+						</div>
+					</div>
+					<div style="position:absolute; width:6px; height:6px; right:0px; bottom:0px;">
+						<div style="position:relative; height:100%; width:100%; background:url(http://ebay.sokyclassics.com/images/bkgnd_botrt.png);">
+						</div>
+					</div>
+				</div>
+			</div>
+			<div style="position:absolute; width:100%; height:55px;">
+				<div style="position:relative; width:100%; height:100%;">
+					<div style="position:absolute; width:12px; height:100%; left:0px;">
+						<div style="position:relative; height:100%; width:100%; background:url(http://ebay.sokyclassics.com/images/banner_lf.png);">
+						</div>
+					</div>
+					<div style="position:absolute; width:12px; height:100%; right:0px;">
+						<div style="position:relative; height:100%; width:100%; background:url(http://ebay.sokyclassics.com/images/banner_rt.png);">
+						</div>
+					</div>
+					<div style="position:absolute; height:100%; left:12px; right:12px;">
+						<div style="position:relative; height:100%; width:100%; background:url(http://ebay.sokyclassics.com/images/banner.png);">
+						</div>
+					</div>
+				</div>
+			</div>
+			<div style="position:absolute; width:100%; height:110px; text-align:center;">
+				<div style="position:relative; width:1000px; height:100%; text-align:left; margin:auto;">
+					<div style="position:absolute; width:209px; height:110px;"> 
+						<a href="http://stores.ebay.com/Southern-Kentucky-Classics" target="_top">
+							<img src="http://ebay.sokyclassics.com/images/banner_logo.png" width="209" height="110" border="0">
+						</a> 
+					</div>
+					<div id="sokyc_home" style="position:absolute; left:220px; top:65px; width:90px; height:30px;">
+						<a href="http://stores.ebay.com/southernkentuckyclassics/pages/home" target="_top" style="height:30px; width:90px;">
+							<img src="http://ebay.sokyclassics.com/images/btn_transparent.png" width="90" height="30" border="0">
+						</a>
+					</div>
+					<div id="sokyc_policies" style="position:absolute; left:320px; top:65px; width:90px; height:30px;">
+						<a href="http://stores.ebay.com/southernkentuckyclassics/pages/policies" target="_top" style="height:30px; width:90px;">
+							<img src="http://ebay.sokyclassics.com/images/btn_transparent.png" width="90" height="30" border="0">
+						</a>
+					</div>
+					<div id="sokyc_returns" style="position:absolute; left:420px; top:65px; width:90px; height:30px;">
+						<a href="http://stores.ebay.com/southernkentuckyclassics/pages/returns" target="_top" style="height:30px; width:90px;">
+							<img src="http://ebay.sokyclassics.com/images/btn_transparent.png" width="90" height="30" border="0">
+						</a>
+					</div>
+					<div id="sokyc_all" style="position:absolute; left:520px; top:65px; width:90px; height:30px;">
+						<a href="http://search.stores.ebay.com/search/search.dll?fsoo=1&fsop=1&query=&saprchi=&saprclo=&sid=19292516&sofp=0&srchdesc=y" target="_top" style="height:30px; width:90px;">
+							<img src="http://ebay.sokyclassics.com/images/btn_transparent.png" width="90" height="30" border="0">
+						</a>
+					</div>
+					<div style="position:absolute; top:8px; right:0px;">
+						<form name="search" action="http://stores.ebay.com/Southern-Kentucky-Classics/_i.html?_armrs=1" method="get" target="_top">
+							<div style="font-size:12px; font-weight:bold; color:#FFF;">Search Our Products
+							</div>
+								<input type="text" name="_nkw" maxlength="300" size="50"><input type="submit" value="Search" name="submit">
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	<div style="padding:20px; font-size:20px;"><!-- place your product description text between these comments -->Product description goes here<!-- place your product description text between these comments -->
+	</div>
+	</div>
+</font>
